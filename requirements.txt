@@ -1,0 +1,3 @@
+# compulsory for all python projects 
+
+Flask == 3.0.1
